@@ -18,7 +18,7 @@ namespace KarakterSay
             {
                 char c = metin[i];
                 int index = Convert.ToInt32(c);
-                adetler[index]++;
+                adetler[index]+=1;
             }
 
             for (int i = 0; i < adetler.Length; i++)

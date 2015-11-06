@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZyeYakin", "ZyeYakin\ZyeYak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterSay", "KarakterSay\KarakterSay.csproj", "{C2D48387-F984-466E-BAFA-E1BDD69C3566}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkilikSistemeCevirme", "IkilikSistemeCevirme\IkilikSistemeCevirme.csproj", "{58DC6976-4B36-450A-A3BF-FF24123EEC89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C2D48387-F984-466E-BAFA-E1BDD69C3566}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2D48387-F984-466E-BAFA-E1BDD69C3566}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2D48387-F984-466E-BAFA-E1BDD69C3566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterSay", "KarakterSay\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkilikSistemeCevirme", "IkilikSistemeCevirme\IkilikSistemeCevirme.csproj", "{58DC6976-4B36-450A-A3BF-FF24123EEC89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltMetin", "AltMetin\AltMetin.csproj", "{FB7EFF2B-0E7D-4B41-BF99-361F7B65B793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DC6976-4B36-450A-A3BF-FF24123EEC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7EFF2B-0E7D-4B41-BF99-361F7B65B793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7EFF2B-0E7D-4B41-BF99-361F7B65B793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7EFF2B-0E7D-4B41-BF99-361F7B65B793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7EFF2B-0E7D-4B41-BF99-361F7B65B793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

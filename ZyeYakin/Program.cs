@@ -13,10 +13,8 @@ namespace ZyeYakin
 
             Console.WriteLine("Lütfen bir metin giriniz: ");
             string metin = Console.ReadLine().Trim().ToUpper().Replace(" ","");
-
             int[] farklar = new int[metin.Length];
             int enKucuk = 100;
-
             for (int i = 0; i < metin.Length; i++)
             {
                 farklar[i] = Convert.ToInt32('Z') - Convert.ToInt32(metin[i]);
@@ -25,9 +23,6 @@ namespace ZyeYakin
                     enKucuk = farklar[i];
                 }
             }
-
-
-
             for (int i = 0; i < farklar.Length; i++)
             {
                 if (farklar[i]==enKucuk)
@@ -36,21 +31,7 @@ namespace ZyeYakin
                     break;
                 }
             }
-
             Console.ReadLine();
-
-
-
-            
-
-
-
-
-
-
-
-
-
         }
     }
 }
